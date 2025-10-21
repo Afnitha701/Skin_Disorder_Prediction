@@ -26,20 +26,20 @@ You can access it here:
 
 ---
 
-## 🧾 Files Included
+## Files Included
 - `Skin_Disorder_Prediction.ipynb` — Complete Jupyter Notebook with code, visuals, and results.  
 - `README.md` — Project summary and details.
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 - Improved understanding of preprocessing clinical data.  
 - Hands-on practice with classification models and hyperparameter tuning.  
 - Practical insight into model evaluation and feature interpretation.
 
 ---
 
-## 🔗 Connect
-📧 **Email:** yourname@gmail.com  
+## Connect
+📧 **Email:** afnitha.abdulrahman@gmail.com
 🔗 **LinkedIn:** [Afnitha Abdul Rahman](https://www.linkedin.com/in/afnitha-abdul-rahman-b689b727a)  
 🌐 **Portfolio:** [Afnitha Portfolio](https://afnitha701.github.io/Afnitha-Rahman-portfolio/)
